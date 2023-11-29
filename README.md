@@ -1,4 +1,8 @@
-- 👋 Hi, I’m Iqbal Pamula Ba'iq
+ ### Hi there, I'm Iqbal Pamula 👋
+![Profile Views](https://komarev.com/ghpvc/?username=balpamula)
+[![Instagram](https://img.shields.io/badge/--linkedin?label=Instagram&logo=Instagram&style=social)](https://www.instagram.com/hafizcaniago/)
+[![Telegram](https://img.shields.io/badge/--telegram?label=Telegram&logo=Telegram&style=social)](https://t.me/balpamula/) 
+[![LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/hafiz-caniago/) 
   
 <p align="left">
 <a href="https://github.com/balpamula">
