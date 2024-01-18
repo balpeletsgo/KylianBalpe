@@ -4,8 +4,8 @@
 [![LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/iqbalpamula/) 
   
 <p align="left">
-<a href="https://github.com/balpamula">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=balpamula&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=balpamula&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/bblapess">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bblapess&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bblapess&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
