@@ -9,4 +9,4 @@
 </a>
 </p>
 
-<a href="https://kylianbalpe.tech/>kylianbalpe.tech</a>
+kylianbalpe.tech
