@@ -5,7 +5,7 @@
 
 <p align="left">
 <a href="https://github.com/KylianBalpe">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KylianBalpe&layout=compact&langs_count=6&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KylianBalpe&layout=compact&langs_count=6&theme=light"/>
 </a>
 </p>
 
